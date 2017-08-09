@@ -1,0 +1,11 @@
+Learning Journal DAY 1
+
+Linux commands:
+Pwd--> shows  in which directory are working
+cd ~ --> goes home directory
+cd.. --> goes previous directory
+ls--> list the items in the current directory
+ls -l -->
+ls =lrt-->
+touch -->
+man tree -->
