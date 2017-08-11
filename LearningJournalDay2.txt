@@ -83,7 +83,14 @@ p.center {
     text-align: center;
     color: red;
 }
-<<||
+body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat; background image wiil not repeat
+    background-position: right top; --> background image position
+    background-attachment: fixed; backgrounf image will not scroll to page
+}
+
+
 html file <h1 class="center">This heading will not be affected</h1>
 
 background-color: lightblue; --> changes background color
